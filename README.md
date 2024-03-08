@@ -8,4 +8,4 @@ An IMDB clone built by Python with SQL database and console version.
 
 **Contains both with SQL version and console version.**
 
-![movie_system](https://github.com/rizacan-ozcan/MovieLibraryManagement/assets/159938012/e41ad567-67a6-4841-8caf-657d549b4c38)
+![movie_system](https://github.com/rizacan-ozcan/MovieLibraryManagement/assets/159938012/c4c8a604-dda4-4c89-ac73-f131b12209b9)
